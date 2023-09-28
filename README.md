@@ -43,13 +43,15 @@
 <br />
 
 <!-- About Section -->
- # About me
+ ## 🙋‍♂️ About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
+ <img align="right" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47absvl7wk6jxyxds9w3s0fvj8rjc8n9mpx76dlf5o&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding gif" />
+
+ 📘 &emsp; I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**<br/>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge<br/>
  ❤️ &emsp; Love to writing code and learning new features<br/>
+ ⚡ &emsp; For Fun Games, Music, Entertainment<br/>
  📄 &emsp; Know about my experiences [Resume](https://drive.google.com/drive/folders/1E2EnUfYxBMs09DUtMuPAWl5Yc0gwQ5CU)<br/>
  📧 &emsp; Reach me anytime: maheshbahir45@gmail.com<br/>
  💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/mahesh-bahir-931b8b1b0/)
@@ -57,9 +59,8 @@
 </p>
 <br/>
 
-## Use To Code
+## 🌐 Web Development & Tools
 
-<!--![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)-->
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -74,34 +75,28 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <!--![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)-->
+<!--![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)-->
 <br/>
-
-<!--## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io)-->
-
-<!--<p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>-->
 <hr/>
-<br/>
 
-<!--<p align="center">
-    <a href="https://github.com/MaheshB45">
-        <img src="https://streak-stats.demolab.com?user=MaheshB45&theme=radical&border=7F3FBF&background=0D1117"  alt="mahesh's GitHub streak"/>
-    </a>
-</p>--> 
-<p align="center">
-  <a href="https://github.com/MaheshB45">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaheshB45&theme=radical" alt="Mahesh's GitHub Contribution"/>
+## ⚡ GitHub Stats & Languages
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
+  	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=MaheshB45&show_icons=true&theme=react&show=reviews">
   </a>
-</p>
-
-<a> 
-    <a href="https://github.com/MaheshB45"><img alt="Mahesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MaheshB45&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/MaheshB45"><img alt="Mahesh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MaheshB45&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+
+  
+## ☄️ GitHub Streaks
+<p align="center">
+    <a href="https://github.com/MaheshB45">
+        <img src="https://streak-stats.demolab.com?user=MaheshB45&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550"alt="mahesh's GitHub streak"/>
+    </a>
+</p> 
+
+<div align="center">
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+</div>
 
