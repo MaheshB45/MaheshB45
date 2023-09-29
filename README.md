@@ -82,8 +82,8 @@
 ## ⚡ GitHub Stats & Languages
 
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
-  	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=MaheshB45&show_icons=true&theme=react&show=reviews">
-  </a>
+  	<img height="192px" src="https://github-readme-stats.vercel.app/api?username=MaheshB45&show_icons=true&theme=react&show=reviews">
+  </a> &emsp;
   <a href="https://github.com/MaheshB45"><img alt="Mahesh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MaheshB45&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 
   
