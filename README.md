@@ -81,12 +81,21 @@
 
 ## ⚡ GitHub Stats & Languages
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
+  <!--<a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
   	<img height="192px" src="https://github-readme-stats.vercel.app/api?username=MaheshB45&show_icons=true&theme=react&show=reviews">
   </a> &emsp;
-  <a href="https://github.com/MaheshB45"><img alt="Mahesh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MaheshB45&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/MaheshB45"><img alt="Mahesh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MaheshB45&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
 
+<!--[![Mahesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MaheshB45&&theme=xcode)](https://github.com/MaheshB45)-->
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs? 
+  username=MaheshB45&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MaheshB45" /></p>
   
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api? 
+ username=MaheshB45&show_icons=true&locale=en&theme=tokyonight" alt="MaheshB45" /></p>
+  
+<br/>
+
 ## ☄️ GitHub Streaks
 <p align="center">
     <a href="https://github.com/MaheshB45">
