@@ -86,7 +86,7 @@
  
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
   	<img align="right" height="192px" src="https://github-readme-stats.vercel.app/api?username=MaheshB45&show_icons=true&theme=react&show=reviews">
-  </a>
+  </a>&nbsp;
 
 <!--[![Mahesh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MaheshB45&&theme=xcode)](https://github.com/MaheshB45)-->
 
@@ -96,7 +96,7 @@
  <!--<p><img align="right" src="https://github-readme-stats.vercel.app/api? 
  username=MaheshB45&show_icons=true&locale=en&theme=tokyonight" alt="MaheshB45" /></p>-->
   
-<br/>&nbsp;
+<br/>
 
 ## ☄️ GitHub Streaks
 <p align="center">
