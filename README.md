@@ -52,7 +52,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge<br/>
  ❤️ &emsp; Love to writing code and learning new features<br/>
  ⚡ &emsp; For Fun Games, Music, Entertainment<br/>
- 📄 &emsp; Know about my experiences [Resume]([https://drive.google.com/drive/folders/1E2EnUfYxBMs09DUtMuPAWl5Yc0gwQ5CU](https://drive.google.com/file/d/1Z1xeSxsE65qXGi10oUiW8FIH8nSJ2My5/view?usp=sharing))<br/>
+ 📄 &emsp; Know about my experiences [Resume](https://drive.google.com/file/d/1Z1xeSxsE65qXGi10oUiW8FIH8nSJ2My5/view?usp=sharing)<br/>
  📧 &emsp; Reach me anytime: maheshbahir45@gmail.com<br/>
  💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/mahesh-bahir-931b8b1b0/)
 
