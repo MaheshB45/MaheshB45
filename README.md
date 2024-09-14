@@ -63,7 +63,7 @@
 </p>
 <br/>
 
-## 🌐 Web Development & Tools
+>## 🌐 Web Development & Tools
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -85,7 +85,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="line"/>
 </div>
 
-## ⚡ GitHub Stats & Languages
+>## ⚡ GitHub Stats & Languages
 
   <a href="https://github.com/MaheshB45"><img align="left" alt="Mahesh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MaheshB45&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="45.5%"/>
   </a>
@@ -104,7 +104,7 @@
   
 <br/>
 
-## ☄️ GitHub Streaks
+>## ☄️ GitHub Streaks
 <p align="center">
     <a href="https://github.com/MaheshB45">
         <img src="https://streak-stats.demolab.com?user=MaheshB45&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550"alt="mahesh's GitHub streak"/>
