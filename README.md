@@ -46,7 +46,7 @@
  ## 🙋‍♂️ About me
  
 <p>
- <img align="right" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47absvl7wk6jxyxds9w3s0fvj8rjc8n9mpx76dlf5o&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding gif" />
+ <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Coding gif" />
 
  📘 &emsp; I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**<br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge<br/>
