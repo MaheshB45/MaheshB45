@@ -50,7 +50,7 @@
  ## 🙋‍♂️ About me
  
 <p>
- <img align="right" width="300" height="240" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Coding gif" />
+ <img align="right" width="280" height="240" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Coding gif" />
 
  📘 &emsp; I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**<br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge<br/>
