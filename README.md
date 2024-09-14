@@ -9,7 +9,7 @@
 <!-- Intro  -->
 <h2 align="center">
         <samp> &gt; Hey There!, I am
-                <b><a target="_blank" href="https://fyp.bio/Mahesh">Mahesh Bahir</a></b>
+                <b><a target="_blank" href="https://mahesh-portfolio-fawn.vercel.app/">Mahesh Bahir</a></b>
         </samp>
 </h2>
 
