@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/MaheshB45"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=435&lines=Front+End+Developer+;Always+learning+new+things+;Self+Thought+Programmer" alt="Typing SVG" /></a>
+  <a href="https://github.com/MaheshB45"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=435&lines=MERN+Stack+Developer+;Always+learning+new+things+;Self+Thought+Programmer" alt="Typing SVG" /></a>
 </p>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="line"/>
